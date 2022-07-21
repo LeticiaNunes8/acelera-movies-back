@@ -7423,3 +7423,8 @@ zen-observable@0.8.15:
   version "0.8.15"
   resolved "https://registry.yarnpkg.com/zen-observable/-/zen-observable-0.8.15.tgz#96415c512d8e3ffd920afd3889604e30b9eaac15"
   integrity sha512-PQ2PC7R9rslx84ndNBZB/Dkv8V8fZEpk83RLgXtYd0fwUgEjseMn1Dgajh2x6S8QbZAFa9p2qVCEuYZNgve0dQ==
+
+zsh@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/zsh/-/zsh-0.0.1.tgz#35c2796d94a1e160c252e6031aa510d3be4a0640"
+  integrity sha512-JFVRW6WWrsXoGJfnEvY0f/g2MKtTRZPOY+8VwIMvm/ThpH5YaWySc49Mx8Q0VK4SA4aIEAPXqmrFh46xjdqwJA==
